@@ -1,0 +1,6 @@
+2020-03-12 15:31:42 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "'1111,11' (TB_CUPOM: ""VL_VENDA"" DECIMAL(19, 2))"; SQL statement:
+INSERT INTO "PUBLIC"."TB_CUPOM"("ID_CUPOM","DT_VENDA","ID_CLIENTE","VL_VENDA")VALUES(?,?,?,?) [22018-200]
+2020-03-12 15:31:42 jdbc[13]: exception
+org.h2.jdbc.JdbcSQLDataException: Data conversion error converting "'1111,11' (TB_CUPOM: ""VL_VENDA"" DECIMAL(19, 2))"; SQL statement:
+INSERT INTO "PUBLIC"."TB_CUPOM"("ID_CUPOM","DT_VENDA","ID_CLIENTE","VL_VENDA")VALUES(?,?,?,?) [22018-200]
